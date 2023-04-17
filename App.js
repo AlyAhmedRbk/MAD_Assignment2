@@ -18,7 +18,6 @@ const App = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Chess Layout</Text>
-      {board}
     </View>
   );
 };
